@@ -1,0 +1,7 @@
+﻿@font-face {font-family: 'SiYuan-ExtraLig6dd84384816f75';
+	/*src: url('//cdn.webfont.youziku.com/webfonts/nomal/94069/46870/581ecf99f629d8130087fa1a.gif');*/
+	src: url('//cdn.webfont.youziku.com/webfonts/nomal/94069/46870/581ecf99f629d8130087fa1a.gif?#iefix') format('embedded-opentype'),
+	     url('//cdn.webfont.youziku.com/webfonts/nomal/94069/46870/581ecf99f629d8130087fa1a.bmp') format('woff'),     
+		 url('') format('truetype'),    
+		 url('#SiYuan-ExtraLight') format('svg');
+}
